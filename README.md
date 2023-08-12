@@ -20,7 +20,7 @@ I am Ahmad Raza from Pakistan. I am a Software Engineer with expertise in Web De
   * UI/UX Designing
   
 
-- 🌱 I’m currently learning Express & Node JS .
+- 🌱 I’m currently learning Chrome Extension Development.
 - 💻 I'm also working on some projects.
 - 🔭 You can check my Portfolio here [ahmadraza365.diveintoskills.com](https://ahmadraza365.diveintoskills.com)
 - 📫 How to reach me: [LinkedIn-AhmadRaza365](https://www.linkedin.com/in/ahmadraza365), [my website](https://ahmadraza365.diveintoskills.com) or email (ahmadraza365pro@gmail.com) 
