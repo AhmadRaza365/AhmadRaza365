@@ -2,7 +2,7 @@
 
 **Full Stack Engineer | MERN Stack & Next.js Specialist**
 
-I build fast, scalable, and conversion-focused web applications — with a strong expertise in **eCommerce platforms**, secure checkout systems, and modern frontend architectures.
+I build fast, scalable, and conversion-focused web applications, with a strong expertise in **eCommerce platforms**, secure checkout systems, and modern frontend architectures.
 
 Turning ideas into powerful, user-centric digital products.
 
