@@ -1,44 +1,92 @@
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+# Hi there, I'm Ahmad Raza 👋
 
-### Hi there 👋, I am Ahmad Raza
-I hope you will be fine and enjoying good health. 👋
+**Full Stack Engineer | MERN Stack & Next.js Specialist**
 
-I am Ahmad Raza from Pakistan. I am a Software Engineer with expertise in Web Development. I have professional experience in MERN Stack development, UI/UX Designing, and Content Creation.
+I build fast, scalable, and conversion-focused web applications — with a strong expertise in **eCommerce platforms**, secure checkout systems, and modern frontend architectures.
 
-* #### My Skills set:
-  * HTML
-  * CSS
-  * JavaScript
-  * Java
-  * React Js
-  * Next Js
-  * React Native
-  * React Redux
-  * Node JS
-  * BootStrap
-  * Tailwind CSS
-  * UI/UX Designing
-  
+Turning ideas into powerful, user-centric digital products.
 
-- 🌱 I’m currently learning Chrome Extension Development.
-- 💻 I'm also working on some projects.
-- 🔭 You can check my Portfolio here [ahmadraza365.diveintoskills.com](https://ahmadraza365.diveintoskills.com)
-- 📫 How to reach me: [LinkedIn-AhmadRaza365](https://www.linkedin.com/in/ahmadraza365), [my website](https://ahmadraza365.diveintoskills.com) or email (ahmadraza365pro@gmail.com) 
+---
 
+### 🛠️ What I Work With
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmadraza365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmadraza.raza.54772)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmadraza_365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmadraza365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/c/DiveIntoSkills)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/ahmadraza365)  
+**Frontend**  
+- React, Next.js (App Router), TypeScript, Astro  
+- Tailwind CSS, DaisyUI, Material UI  
+- GSAP (animations), Framer Motion, Redux  
+- Vite, Webpack
 
+**Backend & Database**  
+- Node.js, Express.js
+- Spring Boot, Java
+- MongoDB, PostgreSQL, MySQL, Redis  
+- Firebase, Supabase
 
-![Profile views](https://gpvc.arturio.dev/AhmadRaza365)  
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://ahmadraza365.diveintoskills.com)
+**eCommerce & Integrations**  
+- Shopify (Storefront API + Headless-lite)  
+- Stripe, Apple Pay, Google Pay, Tabby, Tap Payments, Paymob  
+- Twilio SMS, Payment Gateway Integrations  
+- Sanity CMS, Strapi, WordPress
 
+**Other Tools**  
+- AWS, Docker basics  
+- Git, GitHub, Figma, Framer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadRaza365)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🚀 Featured Projects
 
+#### [STRABL — Payments & Checkout](https://strabl.io/)
+- Led frontend development for a Dubai-based FinTech startup  
+- Built secure, customizable checkout supporting multiple payment gateways  
+- Developed admin, customer & merchant dashboards  
+- Created WordPress & Shopify plugins + NPM packages  
+- **Tech**: React, Tailwind, Redux, Spring Boot, MongoDB, Redis
 
+#### [Raees Official](https://raeesofficial.pk/)
+- Custom Next.js eCommerce store for a traditional Pakistani men's clothing brand  
+- Culturally inspired design + seamless user experience  
+- Integrated Twilio SMS for real-time order notifications  
+- **Tech**: Next.js, Tailwind CSS, MongoDB
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadRaza365&show_icons=true)  
+#### [The Glam Bar](https://theglambar.pk/)
+- Migrated a complex WordPress cosmetics store to a clean, minimalist Next.js platform  
+- Built a simple, user-friendly admin dashboard to reduce maintenance  
+- **Tech**: Next.js, Tailwind CSS, DaisyUI, MongoDB
 
+#### [MSC Electric](https://mscelectric.co.uk/)
+- Modern business website with smooth animations and engaging UX  
+- Focused on performance and brand storytelling  
+- **Tech**: Next.js, Tailwind CSS, GSAP
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadRaza365&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+---
+
+### 📊 My Strengths
+
+- Building high-performance eCommerce storefronts (LCP ≤ 2.5s)  
+- Designing reliable checkout flows with proper **idempotency** and webhook handling  
+- Creating maintainable, scalable codebases  
+- Delivering pixel-perfect, responsive UIs with excellent UX  
+- Working with international clients and cross-functional teams
+
+---
+
+### 📫 Let's Connect
+
+- **Portfolio**: [ahmadraza365.com](https://ahmadraza365.com/)
+- **LinkedIn**: [linkedin.com/in/ahmadraza365](https://www.linkedin.com/in/ahmadraza365)
+- **Email**: ahmadraza365pro@gmail.com
+
+---
+
+### 📈 Currently Learning & Exploring
+- Advanced Next.js patterns (Server Actions, Partial Prerendering)  
+- Edge computing & observability tools  
+- Open source contributions in the e-commerce space
+
+---
+
+Thanks for stopping by!  
+Feel free to explore my repositories or reach out if you're working on an e-commerce project, need a reliable checkout system, or want to collaborate.
+
+Looking forward to building something great together! 🚀
